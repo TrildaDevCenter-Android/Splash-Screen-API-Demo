@@ -9,6 +9,8 @@ Android application to demonstrate new splash API
 
 ## the sample is still open source however Logos, Graphics, and Brand names for  Trilda, TrildaDevCenter and OpentrildaDevCenter are copyrighted Trademarks as follows
 
+and it will be improved 
+
 
 # Trilda, TrildaDevCenter, and OpenTrildaDevCenter
 
